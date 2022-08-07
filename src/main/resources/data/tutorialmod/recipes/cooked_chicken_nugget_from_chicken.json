@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tutorialmod:cooked_chicken"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:cooked_chicken_nugget",
+    "count": 9
+  }
+}
